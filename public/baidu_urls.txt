@@ -1,0 +1,2 @@
+http://example.org/first_post/
+http://example.org/first_pos1t/

@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>documentation - 分类 - 我的全新 Hugo FixIt 网站</title>
+    <link>http://example.org/categories/documentation/</link>
+    <description>documentation - 分类 - 我的全新 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 19 Dec 2021 16:15:22 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+  <title>主题文档 - 基本概念</title>
+  <link>http://example.org/first_post/</link>
+  <pubDate>Sun, 19 Dec 2021 16:15:22 &#43;0800</pubDate>
+  <author>Lruihao</author>
+  <guid>http://example.org/first_post/</guid>
+  <description><![CDATA[<p>探索 Hugo - <strong>FixIt</strong> 主题的全部内容和背后的核心概念。</p>]]></description>
+</item>
+</channel>
+</rss>
