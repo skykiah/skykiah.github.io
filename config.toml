@@ -459,7 +459,7 @@ theme = "FixIt"
       [params.page.comment.artalk]
         enable = false
         server = "https://yourdomain/api/"
-        site = "默认站点"
+        site = "默认站点1"
         placeholder = ""
         noComment = ""
         sendBtn = ""
