@@ -2,7 +2,6 @@
 title: "Sdad"
 subtitle: ""
 date: 2022-11-03T19:30:52+08:00
-draft: true
 author: ""
 authorLink: ""
 authorEmail: ""
