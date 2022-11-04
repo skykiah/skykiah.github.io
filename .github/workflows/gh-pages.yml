@@ -4,9 +4,7 @@ on:
   push:
     branches:
       - master
- schedule:
-    # Runs everyday at 8:00 AM
-      - cron: "0 8 * * *"
+
 
 jobs:
   build-and-deploy:
