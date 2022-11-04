@@ -39,5 +39,5 @@ example:
 ---
 
 > 作者: SkyyKiah  
-> URL: http://example.org/first_pos1t/  
+> URL: https://lucumt.info/first_pos1t/  
 

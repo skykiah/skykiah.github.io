@@ -2,14 +2,18 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://example.org/first_post/</loc><lastmod>2021-12-19T16:15:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/categories/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/first_pos1t/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/tags/git/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/categories/git/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/posts/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/tags/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/tags/configuration/</loc><lastmod>2021-12-19T16:15:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/categories/documentation/</loc><lastmod>2021-12-19T16:15:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://example.org/tags/installation/</loc><lastmod>2021-12-19T16:15:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+      <loc>https://lucumt.info/first_post/</loc><lastmod>2021-12-19T16:15:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://lucumt.info/categories/</loc><lastmod>2022-11-03T19:30:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://lucumt.info/tags/draft/</loc><lastmod>2022-11-03T19:30:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://lucumt.info/categories/draft/</loc><lastmod>2022-11-03T19:30:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://lucumt.info/posts/</loc><lastmod>2022-11-03T19:30:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://lucumt.info/sdad/</loc><lastmod>2022-11-03T19:30:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://lucumt.info/tags/</loc><lastmod>2022-11-03T19:30:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://lucumt.info/</loc><lastmod>2022-11-03T19:30:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://lucumt.info/bar/</loc><lastmod>2022-11-02T16:33:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://lucumt.info/first_pos1t/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://lucumt.info/tags/git/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://lucumt.info/categories/git/</loc><lastmod>2022-08-12T15:37:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://lucumt.info/tags/configuration/</loc><lastmod>2021-12-19T16:15:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://lucumt.info/categories/documentation/</loc><lastmod>2021-12-19T16:15:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://lucumt.info/tags/installation/</loc><lastmod>2021-12-19T16:15:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

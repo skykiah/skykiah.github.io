@@ -1472,5 +1472,5 @@ defaultContentLanguage = "zh-cn"
 ---
 
 > 作者: [Lruihao](https://lruihao.cn)  
-> URL: http://example.org/first_post/  
+> URL: https://lucumt.info/first_post/  
 

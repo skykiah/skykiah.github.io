@@ -1,24 +1,40 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>我的全新 Hugo FixIt 网站</title>
-    <link>http://example.org/</link>
+    <link>https://lucumt.info/</link>
     <description>这是我的全新 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Aug 2022 15:37:44 &#43;0800</lastBuildDate>
-      <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 03 Nov 2022 19:30:52 &#43;0800</lastBuildDate>
+      <atom:link href="https://lucumt.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>主题文档 - 基本概念</title>
-  <link>http://example.org/first_post/</link>
+  <link>https://lucumt.info/first_post/</link>
   <pubDate>Sun, 19 Dec 2021 16:15:22 &#43;0800</pubDate>
   <author>Lruihao</author>
-  <guid>http://example.org/first_post/</guid>
+  <guid>https://lucumt.info/first_post/</guid>
   <description><![CDATA[<p>探索 Hugo - <strong>FixIt</strong> 主题的全部内容和背后的核心概念。</p>]]></description>
 </item>
 <item>
+  <title>Sdad</title>
+  <link>https://lucumt.info/sdad/</link>
+  <pubDate>Thu, 03 Nov 2022 19:30:52 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://lucumt.info/sdad/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Index</title>
+  <link>https://lucumt.info/bar/</link>
+  <pubDate>Wed, 02 Nov 2022 16:33:01 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://lucumt.info/bar/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Commit Message standard</title>
-  <link>http://example.org/first_pos1t/</link>
+  <link>https://lucumt.info/first_pos1t/</link>
   <pubDate>Fri, 12 Aug 2022 15:37:44 &#43;0800</pubDate>
   <author>SkyyKiah</author>
-  <guid>http://example.org/first_pos1t/</guid>
+  <guid>https://lucumt.info/first_pos1t/</guid>
   <description><![CDATA[<p>A commit message is a short description of a change to a repository. We should follow certain standards to describe changes efficiently, such as:</p>]]></description>
 </item>
 </channel>

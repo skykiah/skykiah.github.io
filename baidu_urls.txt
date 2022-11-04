@@ -1,2 +1,4 @@
-http://example.org/first_post/
-http://example.org/first_pos1t/
+https://lucumt.info/first_post/
+https://lucumt.info/sdad/
+https://lucumt.info/bar/
+https://lucumt.info/first_pos1t/
