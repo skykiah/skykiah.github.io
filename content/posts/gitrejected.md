@@ -2,7 +2,6 @@
 title: "Gitrejected"
 subtitle: ""
 date: 2022-11-04T11:35:39+08:00
-draft: true
 author: ""
 authorLink: ""
 authorEmail: ""
