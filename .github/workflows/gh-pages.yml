@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - master
-  schedule:
-    - cron:  '30 5,17 * * *' # 每天5:30, 17:30执行，时间为国际标准时间，非北京时间！！
 
 jobs:
   build-and-deploy:
