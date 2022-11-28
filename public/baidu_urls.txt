@@ -1,3 +1,6 @@
 http://example.org/first_post/
+http://example.org/gitrejected/
+http://example.org/likis/
+http://example.org/sdad/
 http://example.org/bar/
 http://example.org/first_pos1t/

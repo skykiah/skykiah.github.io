@@ -3,7 +3,7 @@
     <title>我的全新 Hugo FixIt 网站</title>
     <link>http://example.org/</link>
     <description>这是我的全新 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 02 Nov 2022 16:33:01 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 04 Nov 2022 11:35:39 &#43;0800</lastBuildDate>
       <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>主题文档 - 基本概念</title>
@@ -12,6 +12,31 @@
   <author>Lruihao</author>
   <guid>http://example.org/first_post/</guid>
   <description><![CDATA[<p>探索 Hugo - <strong>FixIt</strong> 主题的全部内容和背后的核心概念。</p>]]></description>
+</item>
+<item>
+  <title>Gitrejected</title>
+  <link>http://example.org/gitrejected/</link>
+  <pubDate>Fri, 04 Nov 2022 11:35:39 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/gitrejected/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Likis</title>
+  <link>http://example.org/likis/</link>
+  <pubDate>Fri, 04 Nov 2022 11:24:56 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/likis/</guid>
+  <description><![CDATA[<p>sadadff#  #
+sssad 阿萨德是sad但是阿三 ##  ##</p>]]></description>
+</item>
+<item>
+  <title>Sdad</title>
+  <link>http://example.org/sdad/</link>
+  <pubDate>Thu, 03 Nov 2022 19:30:52 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://example.org/sdad/</guid>
+  <description><![CDATA[]]></description>
 </item>
 <item>
   <title>Index</title>
