@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的全新 Hugo FixIt 网站</title>
+    <link>https://lucumt.info/post/</link>
+    <description>Recent content in Posts on 我的全新 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 28 Nov 2022 11:18:03 +0800</lastBuildDate><atom:link href="https://lucumt.info/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开始使用hugo写博客</title>
+      <link>https://lucumt.info/post/testx/</link>
+      <pubDate>Mon, 28 Nov 2022 11:18:03 +0800</pubDate>
+      
+      <guid>https://lucumt.info/post/testx/</guid>
+      <description>之前用过Hexo来生成静态博客，但是感觉写的东西比较浅显，没能坚持写下来。并且因为重装系统后，重新checkout的hexo博客因为node</description>
+    </item>
+    
+  </channel>
+</rss>
